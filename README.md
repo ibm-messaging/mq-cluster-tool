@@ -15,7 +15,7 @@ Use it at your own risk.
 
 To get started do the following:
 
-1. Download the [zip file](https://github.com/ibm-messaging/mq-cluster-tool/package/IBM_MQ_Cluster_Tool.zip)
+1. Download the [zip file](./package) in the package folder
 2. Extract the zip file into a directory of your choice
 3. Read the documentation in PDF format provided in the zip file
 
